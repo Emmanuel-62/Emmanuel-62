@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Emmanuel-62/Emmanuel-62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bonjour 👋
 
 👋 Bienvenue sur mon profil GitHub !
 
