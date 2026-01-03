@@ -2,7 +2,7 @@
 
 👋 Bienvenue sur mon profil GitHub !
 
-🌟 Je suis un étudiant en première année en informatique passionné par le développement logiciel, les projets IoT et la conception de bases de données.
+🌟 Je suis un étudiant en informatique passionné par le développement logiciel, les projets IoT et la conception de bases de données.
 
 🚀 Actuellement, je travaille sur des projets utilisant Python, HTML/CSS, PHP, SQL et Arduino, notamment des applications web et des systèmes embarqués.
 
